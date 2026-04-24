@@ -16,7 +16,7 @@
 <br/>
 
 <!-- Zona horaria estética -->
-<img src="https://img.shields.io/badge/Timezone-UTC--3%20(Argentina)-9b00ff?style=for-the-badge&logo=clockify&logoColor=white" />
+<img src="https://img.shields.io/badge/Timezone-UTC--5%20(New%20York)-9b00ff?style=for-the-badge&logo=clockify&logoColor=white" />
 
 <br/><br/>
 
@@ -24,6 +24,7 @@
 <a href="https://youtube.com/@ariel-teen"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://discord.com/users/arielteen"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://open.spotify.com/user/31mfhcvvlry2nkqzzd2u3ukpecby"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<a href="https://pin.it/4xWEhUVhL"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 
 </div>
 
