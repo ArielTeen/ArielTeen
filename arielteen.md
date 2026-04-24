@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header cyberpunk -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff7,50:ff00c8,100:7700ff&height=200§ion=header&text=ARIEL.DEV&fontSize=55&fontColor=00fff7&stroke=ff00c8&strokeWidth=2&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff7,50:ff00c8,100:7700ff&height=200§ion=header&text=ARIELTEEN&fontSize=55&fontColor=00fff7&stroke=ff00c8&strokeWidth=2&animation=fadeIn" width="100%" />
 
 <!-- Typing animado estilo terminal -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FFF7¢er=true&vCenter=true&width=500&lines=%3E+Initializing+ArielTeen.exe...;%3E+Loading+JavaScript+%2F+Python+%2F+Java...;%3E+Building+the+future%2C+one+commit+at+a+time.;%3E+Status%3A+ONLINE+%F0%9F%9F%A2" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FFF7¢er=true&vCenter=true&width=500&lines=%3E+Initializing+ArielTeen.exe...;%3E+Loading+JS+%2F+Python+%2F+Java...;%3E+Building+the+future%2C+one+commit+at+a+time.;%3E+Status%3A+ONLINE" />
 
 <br/>
 
