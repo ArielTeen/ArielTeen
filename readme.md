@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0800,30:3d1f00,60:c77b00,100:ffd60a&height=260&section=header&text=VIRTUAL+XP&fontSize=65&fontColor=ffd60a&stroke=ffaa00&strokeWidth=3&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Beyond%20the%20Limits%20%7C%205%2B%20Years%20JavaScript%20%E2%9A%A1&descSize=15&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0800,30:3d1f00,60:c77b00,100:ffd60a&height=220&section=header&text=VIRTUAL+XP&fontSize=65&fontColor=ffd60a&stroke=ffaa00&strokeWidth=3&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Beyond%20the%20Limits%20%7C%205%2B%20Years%20JavaScript%20%E2%9A%A1&descSize=15&descAlignY=58&descAlign=50" width="100%" />
 
 <br/>
 
-<!-- GIF Goku SSJ -->
-<img src="https://media.giphy.com/media/RytSn5mbqEqOA/giphy.gif" width="280" />
+<img src="https://i.imgur.com/QiRIvRE.gif" width="300" />
 
 <br/>
 
@@ -53,11 +52,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=virtual-xp&hide_border=true&background=0d0800&ring=ffd60a&fire=ffaa00&currStreakLabel=ffd60a&sideLabels=ffaa00&dates=fff4cc&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-<!-- GIF kamehameha footer -->
-<img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="320" />
 
 <br/><br/>
 
