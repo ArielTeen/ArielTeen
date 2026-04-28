@@ -1,36 +1,70 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,30:1a4a1a,60:2d7a2d,100:52b788&height=220&section=header&text=VIRTUAL+XP&fontSize=60&fontColor=d8f3dc&stroke=52b788&strokeWidth=3&animation=fadeIn&fontAlignY=40&desc=🌿%20Developer%20%7C%20Creator%20%7C%205%2B%20Years%20JavaScript&descSize=16&descAlignY=62&descAlign=50" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0800,30:3d1f00,60:c77b00,100:ffd60a&height=260&section=header&text=VIRTUAL+XP&fontSize=65&fontColor=ffd60a&stroke=ffaa00&strokeWidth=3&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Beyond%20the%20Limits%20%7C%205%2B%20Years%20JavaScript%20%E2%9A%A1&descSize=15&descAlignY=58&descAlign=50" width="100%" />
+
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=52B788&center=true&vCenter=true&width=620&height=60&lines=Welcome+to+my+profile%2C+stranger+%F0%9F%8C%BF;Nature+%2B+Code+%3D+%E2%9C%A8;Feel+free+to+explore+this+little+forest..." />
+
+<!-- GIF Goku SSJ -->
+<img src="https://media.giphy.com/media/RytSn5mbqEqOA/giphy.gif" width="280" />
+
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&pause=800&color=74C69D&center=true&vCenter=true&width=540&lines=%3E+Initializing+VirtualXP.exe...+%F0%9F%8C%B1;%3E+5%2B+years+of+JavaScript+mastery+%E2%9A%A1;%3E+Loading+Python+%2F+Java+%2F+Rust+%2F+Go...;%3E+Growing+ideas%2C+one+commit+at+a+time+%F0%9F%8C%B3;%3E+Status%3A+ONLINE+%F0%9F%9F%A2" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=FFD60A&center=true&vCenter=true&width=620&height=60&lines=IT%27S+OVER+9000+COMMITS+%E2%9A%A1;Power+Level%3A+JavaScript+Master+%F0%9F%94%A5;Pushing+beyond+limits%2C+every+day..." />
+
 <br/>
-<img src="https://img.shields.io/badge/🌍_Timezone-UTC--5%20(Philadelphia)-52b788?style=for-the-badge&logoColor=white" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&pause=800&color=FFC300&center=true&vCenter=true&width=540&lines=%3E+Initializing+VirtualXP.exe...+%E2%9A%A1;%3E+5%2B+years+of+JavaScript+mastery;%3E+Loading+Python+%2F+Java+%2F+Rust+%2F+Go...;%3E+Super+Saiyan+mode%3A+ACTIVATED+%F0%9F%94%A5;%3E+Status%3A+ONLINE+%F0%9F%9F%A2" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡_Power_Level-OVER_9000-ffd60a?style=for-the-badge&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/🕐_Timezone-UTC--5%20Philadelphia-ffaa00?style=for-the-badge&logoColor=black" />
+
 <br/><br/>
+
 <a href="https://discord.com/users/virtual.xp"><img src="https://img.shields.io/badge/Discord-virtual.xp-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&pause=9999&color=52B788&center=true&vCenter=true&width=300&lines=🌿+TECH+STACK" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&pause=9999&color=FFD60A&center=true&vCenter=true&width=300&lines=%E2%9A%A1+TECH+STACK" />
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,go,php,cs,react,nextjs,nodejs,express,docker,postgres,redis,git&theme=dark" />
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&pause=9999&color=52B788&center=true&vCenter=true&width=300&lines=🌲+GITHUB+STATS" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&pause=9999&color=FFD60A&center=true&vCenter=true&width=300&lines=%F0%9F%94%A5+GITHUB+STATS" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=virtual-xp&show_icons=true&hide_border=true&bg_color=0a1a0a&title_color=52b788&icon_color=74c69d&text_color=d8f3dc&border_radius=10" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-xp&layout=compact&hide_border=true&bg_color=0a1a0a&title_color=52b788&text_color=d8f3dc&border_radius=10" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=virtual-xp&show_icons=true&hide_border=true&bg_color=0d0800&title_color=ffd60a&icon_color=ffaa00&text_color=fff4cc&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-xp&layout=compact&hide_border=true&bg_color=0d0800&title_color=ffd60a&text_color=fff4cc&border_radius=10" height="165" />
+
 <br/>
-<img src="https://streak-stats.demolab.com?user=virtual-xp&hide_border=true&background=0a1a0a&ring=52b788&fire=74c69d&currStreakLabel=52b788&sideLabels=74c69d&dates=d8f3dc&currStreakNum=ffffff&sideNums=ffffff" />
+
+<img src="https://streak-stats.demolab.com?user=virtual-xp&hide_border=true&background=0d0800&ring=ffd60a&fire=ffaa00&currStreakLabel=ffd60a&sideLabels=ffaa00&dates=fff4cc&currStreakNum=ffffff&sideNums=ffffff" />
+
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=virtual-xp&style=for-the-badge&color=52b788&label=PROFILE+VIEWS" />
+
+<!-- GIF kamehameha footer -->
+<img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="320" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=virtual-xp&style=for-the-badge&color=ffd60a&label=POWER+LEVEL+VIEWS" />
+
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d7a2d,100:0a1a0a&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffd60a,50:c77b00,100:0d0800&height=120&section=footer&animation=fadeIn" width="100%" />
